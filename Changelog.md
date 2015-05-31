@@ -1,6 +1,8 @@
 Kingdom Building Modpack
 by N00bTaco
 
+Ver 1.1.0
+
 Ver 1.0.4
  - Update mods
  - Update: Ancient Warfare 2
